@@ -1,0 +1,4 @@
+<launch>
+<node pkg="my_package2" type="start" name="start"/>
+<node pkg="my_package2" type="client" name="client"/>
+</launch>
